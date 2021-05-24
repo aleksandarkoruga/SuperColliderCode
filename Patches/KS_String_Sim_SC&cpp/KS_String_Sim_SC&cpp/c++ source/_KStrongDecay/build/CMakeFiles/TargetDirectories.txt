@@ -1,0 +1,3 @@
+/Users/aleksandar/Projects/SuperCollider/_KStrongDecay/build/CMakeFiles/rebuild_cache.dir
+/Users/aleksandar/Projects/SuperCollider/_KStrongDecay/build/CMakeFiles/edit_cache.dir
+/Users/aleksandar/Projects/SuperCollider/_KStrongDecay/build/CMakeFiles/KStrongDecay.dir
