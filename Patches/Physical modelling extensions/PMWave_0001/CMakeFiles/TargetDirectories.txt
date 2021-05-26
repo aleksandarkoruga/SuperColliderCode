@@ -1,0 +1,3 @@
+/Users/aleksandar/Projects/SuperCollider/PMWave_0001/CMakeFiles/rebuild_cache.dir
+/Users/aleksandar/Projects/SuperCollider/PMWave_0001/CMakeFiles/edit_cache.dir
+/Users/aleksandar/Projects/SuperCollider/PMWave_0001/CMakeFiles/PMWave.dir
